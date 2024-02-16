@@ -11,7 +11,7 @@ $ python3 -m pip install requests
         2
 $ git clone https://github.com/TechHacker737/Tspam
 $ cd Tspam
-$ python3 spam.py
+$ python3 wspam.py
         3
     in git hube 
 https://github.com/TechHacker737/Tspam.git
